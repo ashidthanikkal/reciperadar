@@ -1,0 +1,9 @@
+.s_view {
+    background-color:#aacd89 ;
+    width: 100%;
+    padding: 30px;
+}
+.meal_p p{
+    font-size: small;
+    font-weight: bold;
+}
