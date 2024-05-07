@@ -18,7 +18,7 @@ function Footer() {
                 height="50"
                 className="d-inline-block align-top"
               />{' '}
-              <h2 className='navb' style={{color:"#f3f8ed"}}>RcipeRadar</h2>
+              <h2 className='navb' style={{color:"#f3f8ed"}}>RecipeRadar</h2>
             </div>
             <h6 className='mt-2' style={{ color: "#e5efd8" }}>Copyright ©  2024 RecipeRadar All rights reserved.</h6>
           </div>

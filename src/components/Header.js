@@ -20,7 +20,7 @@ function Header() {
               className="d-inline-block align-top"
             />{' '}
           </Link>
-          <Navbar.Brand href="#home" className='navb'><b><h2 style={{color:"#304324"}}>RcipeRadar</h2></b></Navbar.Brand>
+          <Navbar.Brand href="#home" className='navb'><b><h2 style={{color:"#304324"}}>RecipeRadar</h2></b></Navbar.Brand>
 
           <Navbar.Toggle className='border-0 shadow-none' aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
